@@ -15,5 +15,6 @@
   end
   
   def all_phrases
+    status = takes in an argument and puts out the catch phrase
     puts status
   end
