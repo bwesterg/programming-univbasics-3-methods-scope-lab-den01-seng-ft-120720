@@ -15,4 +15,5 @@
   end
   
   def all_phrases
-    status = 
+    puts status
+  end
