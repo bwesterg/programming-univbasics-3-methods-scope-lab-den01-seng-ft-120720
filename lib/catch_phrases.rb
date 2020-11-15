@@ -10,6 +10,6 @@
   end
   
   def link 
-     status = 'It's Dangerous To Go Alone! Take This.'
+     status = "It's dangerous to go alone! Take This."
      puts status
   end
