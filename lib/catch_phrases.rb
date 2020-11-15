@@ -15,6 +15,10 @@
   end
   
   def all_phrases
-    status = "puts out all of the previous catch phrases"
-    puts status
+      status = "Thank You Mario! But Our Princess Is In Another Castle!"
+      puts phrase
+      status = "Thank You Mario! But Our Princess Is In Another Castle!"
+      puts status
+      status = "It's Dangerous To Go Alone! Take This."
+      puts status
   end
