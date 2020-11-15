@@ -15,6 +15,6 @@
   end
   
   def all_phrases
-    status = takes in an argument and puts out the catch phrase
+    status = "puts out all of the previous catch phrases"
     puts status
   end
